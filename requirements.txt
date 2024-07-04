@@ -1,4 +1,3 @@
-pandas
-numpy
-seaborn
-#-e .
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f55a6ead2f3cf29e666f52eeb3b9a3ed1fa310acb857e6505c9dffcca7efd2d
+size 29
