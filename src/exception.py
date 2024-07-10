@@ -1,4 +1,5 @@
 import sys
+
 from src.logger import logging
 
 #all error_detail is available iside sys
